@@ -1,0 +1,9 @@
+.user {
+  border: 1px solid #26a96c;
+  width: 100%;
+}
+.user h2 {
+  font-size: 1rem;
+  line-height: 0.2rem;
+  padding-left: 0.3rem;
+}
